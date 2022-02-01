@@ -17,7 +17,7 @@ k=5
 # "pca 1"=>"pca 1"
 # "pca 2"=>"pca 2"
 # "Cluster"=>"column 7"
-data=pd.read_csv('group5.csv',names=["column 1","column 2","column 3","column 4","column 5","column 6","pca 1","pca 2","column 7"])
+data=pd.read_csv('data.csv',names=["column 1","column 2","column 3","column 4","column 5","column 6","pca 1","pca 2","column 7"])
 #normalize the data
 data=stats.zscore(data)
 data["column 6"]=0
