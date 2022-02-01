@@ -26,7 +26,6 @@ the percentage of each cluster from the total N samples for k=5
 4  => 24.731
 5  => 18.932
   }
-the x-y coordinates (2D features) 
 ![Figure_1](https://user-images.githubusercontent.com/83555471/151893004-cf40e194-e83a-4371-9ba3-e441cc2563ce.png)
 
 
