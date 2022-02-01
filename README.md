@@ -7,6 +7,13 @@ AI department for a company that is manufacturing T-shirts. the data collection 
 5. The length of the arms
 
 the data shaped as an Nx5 matrix.this code will cluster the data into K clusters to manufacture K sizes of the T-shirt.For example, if the K= 3 then the N samples is clustered into  3 sizes; small, medium and large.If the K=5 then the data is clustered into XS, S, M, L and XL.
+
+
+
+
+
+
+
 K-mean clustering algorithm to cluster the normalized normalized N samples into K groups. 
 there is redundancy in the features; they can reduced and still preserve the same information.Principle Component Analysis (PCA) is used to reduce the features from 5 dimensions to 2.
 
