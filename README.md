@@ -15,18 +15,18 @@ there is redundancy in the features; they can reduced and still preserve the sam
 **run main.py 
 K=5 for example
 the graph of the running time vs the number of samples N
-![Figure_2](https://user-images.githubusercontent.com/83555471/151893393-8f197620-aaee-4307-9cd3-cd82c10dc87f.png)
+#![Figure_2](https://user-images.githubusercontent.com/83555471/151893393-8f197620-aaee-4307-9cd3-cd82c10dc87f.png)
 
 **run main2.py 
 
 the percentage of each cluster from the total N samples for k=5
-{   1  =>  16.946
-2  => 17.785
-3  => 21.606
-4  => 24.731
-5  => 18.932
+{   green  =>  16.946
+cyan  => 17.785
+magenta  => 21.606
+orange  => 24.731
+black  => 18.932
   }
-![Figure_1](https://user-images.githubusercontent.com/83555471/151893004-cf40e194-e83a-4371-9ba3-e441cc2563ce.png)
+  #![Figure_1](https://user-images.githubusercontent.com/83555471/151893004-cf40e194-e83a-4371-9ba3-e441cc2563ce.png)
 
 
 
